@@ -3,7 +3,7 @@
 
 
 <p>
-![](super_mario.gif)
+<img src="super_mario.gif">
 </p>
 
 
