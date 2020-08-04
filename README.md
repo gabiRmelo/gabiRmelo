@@ -2,8 +2,8 @@
 <p align="justify"> Oi! Me chamo Gabriela Melo e sou de Salvador-Bahia. Sou estudante de Engenharia Elétrica 💡 e venho participando de alguns cursos de desenvolvimento 💻 usando principalmnete HTML, JavaScript e CSS 😊 </p>
 
 
-<p>
-<img src="super_mario.gif", align="center">
+<p align="right">
+<img src="super_mario.gif">
 </p>
 
 
