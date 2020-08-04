@@ -3,7 +3,7 @@
 
 
 <p>
-<img src="super_mario.gif">
+<img src="super_mario.gif", align="center">
 </p>
 
 
